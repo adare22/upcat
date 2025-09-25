@@ -24,6 +24,11 @@ epoch = 2.5
 path = 'contracts/shed_with_conditional_setter.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.voters_candidate_images]
+path = 'contracts/voters_candidate_images.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
