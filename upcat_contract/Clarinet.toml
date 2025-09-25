@@ -15,6 +15,11 @@ path = 'contracts/file_indexing.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.multi_send_with_payment_splitting]
+path = 'contracts/multi_send_with_payment_splitting.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.research]
 path = 'contracts/research.clar'
 clarity_version = 2
